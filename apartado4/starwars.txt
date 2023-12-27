@@ -1,7 +1,0 @@
-Luke Skywalker
-<<<<<<< HEAD
-C-3PO
-=======
-R2-D2
->>>>>>> e30a64907ae29eba8590dd62665a502adb6b1302
-otrocambio
